@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1-quiet-batt-charger")(type "KiCad")(uri "D:/personal work/Upwork/Matt Comeione-Quiet-Battery-Management/1A-5V-DS/V2.0/1-quiet-batt-charger")(options "")(descr ""))
+)
